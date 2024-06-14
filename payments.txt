@@ -1,0 +1,5 @@
+213902046,15000.00,2024-05-01,Tuition Fee,Online,Completed
+213902047,12000.00,2024-05-02,Tuition Fee,Bank Transfer,Completed
+213902048,13000.00,2024-05-03,Tuition Fee,Cash,Completed
+213902049,11000.00,2024-05-04,Tuition Fee,Online,Completed
+213902050,14000.00,2024-05-05,Tuition Fee,Bank Transfer,Completed

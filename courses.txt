@@ -1,0 +1,4 @@
+CSE101,Introduction to Computer Science,Spring 2024
+CSE102,Operating Systems,Fall 2024
+CSE103,Networking,Fall 2024
+310,OS,2
