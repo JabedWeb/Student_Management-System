@@ -18,18 +18,21 @@ The Student Management System (SMS) is a Bash script-based application designed 
 To install and run the Student Management System, follow these steps:
 
 1. Clone the repository:
-        ```sh
-        git clone https://github.com/JabedWeb/Student_Management-System
+```sh
+git clone https://github.com/JabedWeb/Student_Management-System
+```
 
-        cd student-management-system
-        ```
+2. Navigate to the project directory:
+```sh
+cd student-management-system
+```
 
-2. Make the script executable:
+3. Make the script executable:
         ```sh
         chmod +x student_project.sh
         ```
 
-3. Run the script:
+4. Run the script:
         ```sh
         ./student_project.sh
         ```
