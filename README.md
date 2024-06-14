@@ -19,18 +19,19 @@ To install and run the Student Management System, follow these steps:
 
 1. Clone the repository:
         ```sh
-        git clone https://github.com/jabedweb/student-management-system.git
+        git clone https://github.com/JabedWeb/Student_Management-System
+
         cd student-management-system
         ```
 
 2. Make the script executable:
         ```sh
-        chmod +x sms.sh
+        chmod +x student_project.sh
         ```
 
 3. Run the script:
         ```sh
-        ./sms.sh
+        ./student_project.sh
         ```
 
 ## Usage
